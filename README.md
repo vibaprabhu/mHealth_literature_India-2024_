@@ -1,0 +1,2 @@
+This dataset contains literature on mHealth applications in India.The keywords, such as ”(mHealth OR mhealth) AND applications,” with the filter country/territory set to India to narrow down relevant articles from the scopus database till year 2024 for our study.
+This process allowed us to build a corpus from a total of 429 extracted documents. In addition to the text, this file includes other details such as author lists and identifiers that can be used for various analyses.
